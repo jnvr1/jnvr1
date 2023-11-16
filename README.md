@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jnvr1" alt="jnvr1" /></a> </p>
 
-<p align="left"> <a href="https://www.codewars.com/users/jnvr1/badges/micro"></a></p>
+<p align="left"> <a href="https://www.codewars.com/users/jnvr1/badges/micro"> <img src="https://www.codewars.com/users/jnvr1/badges/micro" alt="jnvr1" /></a></p>
 
 - 🔭 I’m currently working on **Fletes México**
 
