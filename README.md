@@ -1,76 +1,85 @@
-<h1 align="center">Hi 👋, I'm Jonathan Viramontes</h1>
-<h3 align="center">Fullstack Developer | Backend & API Specialist 🇲🇽</h3>
+# Jonathan Viramontes
+**Senior Backend Engineer · Systems & API Architecture · México 🇲🇽**
 
-<p align="center">
-  Passionate about building scalable systems, APIs, and real-world solutions.
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jnvr1&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+Ingeniero de software enfocado en el diseño, construcción y evolución de **sistemas backend en producción**.  
+Trabajo con APIs, servicios internos y plataformas que soportan operaciones reales, priorizando **arquitectura, estabilidad y mantenibilidad**.
 
 ---
 
-## 🚀 About Me
+## 🧭 Perfil profesional
 
-- 💼 Currently working at **Fletes México**
-- 🔧 Focused on **backend development, APIs, and internal systems**
-- 🌱 Learning **FastAPI** and improving system architecture skills
-- 💬 Ask me about **Python, FastAPI, Ionic, APIs, SQL**
-- 📫 Reach me at **jonathan.viramontes.ramirez@gmail.com**
+- Especialista en **backend y arquitectura de APIs**
+- Experiencia en **sistemas internos críticos** y flujos operativos
+- Enfoque en **calidad de código, decisiones técnicas y escalabilidad**
+- Capacidad para **refactorizar, estabilizar y evolucionar** sistemas existentes
+- Mentalidad de producto: resolver problemas reales, no solo escribir código
 
----
-
-## 🏆 Achievements & Activity
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jnvr1&theme=flat&no-frame=true&no-bg=true&column=4&margin-w=10&v=202512" />
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://www.codewars.com/users/jnvr1">
-    <img src="https://www.codewars.com/users/jnvr1/badges/micro" alt="codewars badge" />
-  </a>
-</p>
+Actualmente participo en el desarrollo y mantenimiento de sistemas internos en **Fletes México**.
 
 ---
 
-## 🤝 Connect with Me
+## 🏗️ Qué construyo
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/jonathan-noe-viramontes-ramirez-7b708b162/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-         alt="LinkedIn" width="30" height="30" />
-  </a>
-</p>
-
----
-
-## 🧰 Languages & Tools
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
-</p>
+- APIs REST robustas y bien versionadas
+- Servicios backend orientados a dominio
+- Integraciones entre sistemas (internos y externos)
+- Automatización de procesos operativos
+- Backends que escalan con el negocio, no contra él
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Stack técnico
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jnvr1&show_icons=true&rank_icon=github&hide_border=true" />
-</p>
+### Backend
+- **Python** (FastAPI)
+- **Node.js**
+- SQL / MySQL
+- Firebase (Auth, Firestore, Cloud Functions)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnvr1&layout=compact&hide_border=true" />
-</p>
+### Frontend (cuando el proyecto lo requiere)
+- Ionic
+- Angular
+- TypeScript
+
+### Ingeniería & flujo de trabajo
+- Diseño API-first
+- Separación clara de responsabilidades
+- Refactorización progresiva
+- Control de versiones con Git
+- Pruebas manuales y contractuales con Postman
+- Sistemas pensados para producción, no solo demos
+
+---
+
+## 🧩 Principios técnicos
+
+- Simplicidad antes que complejidad innecesaria
+- Arquitectura clara > frameworks de moda
+- Código legible y mantenible
+- Decisiones técnicas documentadas
+- Evolución continua sin romper producción
+
+---
+
+## 📂 Proyectos
+
+En este repositorio encontrarás:
+- APIs desarrolladas con FastAPI
+- Servicios backend conectados a aplicaciones reales
+- Proyectos fullstack con fuerte énfasis en backend
+- Refactorizaciones y mejoras sobre sistemas existentes
+
+🔗 Portafolio técnico:  
+https://jnvr-portafolio.firebaseapp.com/
+
+---
+
+## 📬 Contacto
+
+- 📧 Email: **jonathan.viramontes.ramirez@gmail.com**
+- 💼 LinkedIn:  
+  https://www.linkedin.com/in/jonathan-noe-viramontes-ramirez-7b708b162/
+
+---
+
+> _“Good systems are built, maintained, and evolved — not just coded.”_
