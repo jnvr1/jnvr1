@@ -68,9 +68,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jnvr1&layout=compact&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jnvr1&show_icons=true&rank_icon=github&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jnvr1&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnvr1&layout=compact&hide_border=true" />
 </p>
